@@ -43,4 +43,5 @@ end
 
 def retrieve_last_element_from_array(array)
 
+birds_array[-1]
 end
