@@ -8,7 +8,6 @@ end
 
 def add_element_to_end_of_array(birds_array, arrays!)
 
-birds_array = ["jay", "hawk", "eagle", "warbler"]
 birds_array.push("arrays!")
 
 end
