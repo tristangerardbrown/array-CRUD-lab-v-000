@@ -6,11 +6,10 @@ def create_an_array
 birds_array = ["jay", "hawk", "eagle", "warbler"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(birds_array, cardinal)
 
 birds_array = ["jay", "hawk", "eagle", "warbler"]
-birds_array.push("arrays!")
-puts array.inspect
+birds_array.push("cardinal!")
 
 end
 
