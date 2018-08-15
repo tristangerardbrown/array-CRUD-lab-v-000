@@ -3,14 +3,13 @@ def create_an_empty_array
 end
 
 def create_an_array
-birds = ["jay", "hawk", "eagle", "warbler"]
+birds_array = ["jay", "hawk", "eagle", "warbler"]
 end
 
 def add_element_to_end_of_array(array, element)
 
-birds = ["jay", "hawk", "eagle", "warbler"]
-birds.push("arrays!")
-
+birds_array = ["jay", "hawk", "eagle", "warbler"]
+birds_array.push("arrays!")
 puts array.inspect
 
 end
