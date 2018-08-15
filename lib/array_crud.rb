@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(birds_array)
 
-birds_array.pop("arrays!")
+arrays = birds_array.pop
 
 end
 
