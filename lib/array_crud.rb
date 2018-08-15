@@ -24,7 +24,9 @@ arrays = birds_array.pop
 
 end
 
-def remove_element_from_start_of_array(array)
+def remove_element_from_start_of_array(birds_array)
+
+wow = birds_array.shift
 
 end
 
