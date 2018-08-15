@@ -18,7 +18,9 @@ birds_array.unshift("wow")
 
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array(birds_array)
+
+birds_array.shift("arrays!")
 
 end
 
