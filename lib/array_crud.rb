@@ -9,7 +9,6 @@ end
 def add_element_to_end_of_array(birds_array, element)
 
 birds_array.push("arrays!")
-puts birds_array.inspect
 
 end
 
