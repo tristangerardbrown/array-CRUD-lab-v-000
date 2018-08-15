@@ -30,7 +30,9 @@ wow = birds_array.shift
 
 end
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(birds_array, index_number)
+
+birds_array[index_number]
 
 end
 
